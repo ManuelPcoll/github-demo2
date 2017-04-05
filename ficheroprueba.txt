@@ -1,1 +1,3 @@
 Esto es un fichero de prueba de github-demo2.
+
+Se crea la edicion en una nueva rama.
